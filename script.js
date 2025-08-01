@@ -80,11 +80,11 @@ function updateActiveNavLink() {
 function setupTypingEffect() {
     const typingElement = document.getElementById('typing-text');
     const texts = [
-        'Full Stack Developer',
-        'UI/UX Designer',
+        'Software Engineer I',
+        'Cloud Engineer',
         'Problem Solver',
         'Tech Enthusiast',
-        'Team Leader'
+        'Electrical & Electronics Engineer'
     ];
     
     let textIndex = 0;
